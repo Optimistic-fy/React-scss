@@ -1,0 +1,145 @@
+.recommendWrapper{
+    position: relative;
+    left: 50%;
+    margin-left: -480px;
+    overflow: hidden;
+    width: 960px;
+}
+.recommendLeft{
+    width: 625px;
+    margin-left: 15px;
+    float:left;
+    .banner-img{
+        width:625px;
+        height:270px;
+    }
+}
+.recommendRight{
+    width: 280px;
+    float:right;
+}
+.hotImg{
+    height: 100px;
+    width: 100%;
+}
+.lisiItem{
+    overflow: hidden;
+    padding: 20px 0;
+    border-bottom: 1px solid #dcdcdc;
+    .pic{
+        display: block;
+        width:125px;
+        height: 100px;
+        float: right;
+        border-radius: 5px;
+        margin-top:1em;
+    }
+}
+.listInfo{
+    width:458px;
+    float:left;
+    .title{
+        line-height: 27px;
+        font-size: 18px;
+        font-weight: bold;
+        color: #333;
+        margin-bottom:5px;
+    }
+    .Info{
+        line-height: 24px;
+        font-size: 13px;
+        color: #999;
+        margin:5px 0 5px 0;
+    }
+    a{
+        text-decoration: none;
+        &:hover{
+            text-decoration: underline #000;
+        }
+    }
+}
+.listName{
+    line-height: 24px;
+    font-size: 12px;
+    color: #b4b4b4;
+    float: left;
+    margin:0px;
+    .iconfont{
+        font-size:13px;
+        margin: 0 10px; 
+        cursor: pointer;
+    }
+}
+.writerWrapper{
+    width: 278px;
+    border-radius: 3px;
+}
+.writerTop {
+    position: relative;
+    width: 278px;
+    height: 20px;
+    line-height: 20px;
+    margin-bottom: 20px;
+    span{
+        color: #999;
+        font-size: 13px;
+        float: left;
+        margin-left: 5px;
+    }
+    .change{
+        position: absolute;
+        right: 5px;
+        display: block;
+        cursor: pointer;
+    }
+    .spin{
+        display: block;
+        float:left;
+        font-size:14px;
+        margin-right:4px;
+        transition: all .3s ease-in;
+        transform-origin: center center;
+    }
+}
+.writerInfo{
+    overflow: hidden;
+}
+.writerList {
+    position: relative;
+    width: 278px;
+    height: 47px;
+    margin-bottom: 20px;
+    img{
+        position: absolute;
+        left: 5px;
+        width: 47px;
+        height: 47px;
+        border:1px solid #dcdcdc;
+        border-radius:50%;
+    }
+    p{
+        text-indent: 70px;
+        font-size: 12px;
+        margin: 0 20px 0 0;
+        line-height: 25px;
+        color: #969696;
+    }
+    .name{
+        font-size: 14px;
+        margin-right: 60px;
+        color:#000;
+        cursor: pointer;
+    }
+}
+.writeButton{
+    width: 100%;
+    font-size: 13px;
+    padding: 7px 7px 7px 12px;
+    color: #787878;
+    background-color: #f7f7f7;
+    border: 1px solid #dcdcdc;
+    border-radius: 4px;
+    cursor: pointer;
+    box-sizing: border-box;
+    text-align: center;
+}

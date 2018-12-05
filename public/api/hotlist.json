@@ -1,0 +1,78 @@
+{
+    "success": true,
+    "data":{
+        "list": [{
+            "id":1,
+            "imgUrl": "//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+            "title":"读书",
+            "content":" 投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+            "article":"184096篇文章 · 3565.8K人关注"
+        },{
+            "id":2,
+            "imgUrl": "//upload.jianshu.io/collections/images/14/6249340_194140034135_2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+            "title":"@IT·互联网",
+            "content":" 欢迎关注公众号简宝玉( 公众号ID : jianshu4321 )后台...",
+            "article":"50172篇文章  · 1634.8K人关注"
+        },{
+            "id":3,
+            "imgUrl": "//upload.jianshu.io/collections/images/13/%E5%95%8A.png?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+            "title":"旅行·在路上",
+            "content":" 邂逅一个国家，讲述一座城市，这里有你期待的诗与远方。1.投稿请查看...",
+            "article":"104204篇文章 · 2600.4K人关注"
+        },{
+            "id":4,
+            "imgUrl": "//upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+            "title":"手绘",
+            "content":"欢迎关注公众号简宝玉( 公众号ID : jianshu4321 )后台...",
+            "article":"130935篇文章 · 1666.0K人关注"
+        },{
+            "id":5,
+            "imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+            "title":"简书电影",
+            "content":" 欢迎关注公众号简宝玉( 公众号ID : jianshu4321 )后台...",
+            "article":"90063篇文章 · 1910.6K人关注"
+        },{
+            "id":6,
+            "imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+            "title":"故事",
+            "content":"故事专题，不论是旅行生活中亲身经历的真实故事，还是童话玄幻遐想的虚构故...",
+            "article":"197283篇文章 · 1351.7K人关注"
+        },{
+            "id":7,
+            "imgUrl": "//upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+            "title":"摄影",
+            "content":"欢迎关注公众号简宝玉( 公众号ID : jianshu4321 )后台...",
+            "article":"70055篇文章 · 1990.5K人关注"
+        },{
+            "id":8,
+            "imgUrl": "//upload.jianshu.io/collections/images/76/12.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+            "title":"自然科普",
+            "content":"本专题仅收涉及自然科学(生物、天文、物理等)的科普、介绍、发现类文章，...",
+            "article":"5568篇文章 · 1149.1K人关注"
+        },{
+            "id":9,
+            "imgUrl": "//upload.jianshu.io/collections/images/38/android.graphics.Bitmap_f3edcb1.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+            "title":"诗",
+            "content":"诗，一座由孤独看守的花园主编：海子三月归古诗词编审：北...",
+            "article":"275643篇文章 · 1879.4K人关注"
+        },{
+            "id":10,
+            "imgUrl": "//upload.jianshu.io/collections/images/28/%E4%B8%8A%E7%8F%AD%E8%BF%99%E7%82%B9%E4%BA%8B%E5%84%BF.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+            "title":"上班这点事儿",
+            "content":"欢迎关注公众号简宝玉( 公众号ID : jianshu4321 )后台...",
+            "article":"65741篇文章 · 1356.7K人关注"
+        },{
+            "id":11,
+            "imgUrl": "//upload.jianshu.io/collections/images/540903/1f2936a662509e7d64528466be5546f4_r.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+            "title":"漫画",
+            "content":"欢迎关注公众号简宝玉( 公众号ID : jianshu4321 )后台...",
+            "article":"3827篇文章 · 602.2K人关注"
+        },{
+            "id":12,
+            "imgUrl": "//upload.jianshu.io/collections/images/30/IMG_2226.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+            "title":"美食",
+            "content":"欢迎关注公众号简宝玉( 公众号ID : jianshu4321 )后台...",
+            "article":"47100篇文章 · 1937.7K人关注"
+        }]
+    }
+}

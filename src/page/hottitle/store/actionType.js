@@ -1,0 +1,1 @@
+export const GET_HOT_LIST = 'hottitle/GET_HOT_LIST';

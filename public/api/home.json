@@ -1,0 +1,151 @@
+{
+    "success":true,
+    "data":{
+        "bannerList":[{
+            "id": 1,
+            "imgUrl": "//upload.jianshu.io/admin_banners/web_images/4581/8a43bf0089cd31850b7a493412ac1f39d30f1763.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+        },{
+            "id": 2,
+            "imgUrl": "//upload.jianshu.io/admin_banners/web_images/4582/2db83cc6f08d13c2f83002238ca32b784266c4fb.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+        },{
+            "id": 3,
+            "imgUrl": "//upload.jianshu.io/admin_banners/web_images/4581/af5d55e899ff5e06b90fee32c5403772cc9f6e04.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+        },{
+            "id": 4,
+            "imgUrl": "//upload.jianshu.io/admin_banners/web_images/4579/0e3caa20d3d30658dc4b393d1ea105baa7e78248.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+        }],
+        "topicList": [{
+            "id": 1,
+            "title": "社会热点",
+            "imgUrl": "//upload.jianshu.io/collections/images/76/12.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64" 
+        },{
+            "id": 2,
+            "title": "手绘",
+            "imgUrl": "//upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64" 
+        },{
+            "id": 3,
+            "title": "故事",
+            "imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64" 
+        },{
+            "id": 4,
+            "title": "读书",
+            "imgUrl": "//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64" 
+        },{
+            "id": 5,
+            "title": "简书电影",
+            "imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64" 
+        },{
+            "id": 6,
+            "title": "@IT·互联网",
+            "imgUrl": "//upload.jianshu.io/collections/images/14/6249340_194140034135_2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64" 
+        },{
+            "id": 7,
+            "title": "摄影",
+            "imgUrl": "//upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64" 
+        }],
+        "articleList":[{
+            "id": 1,
+            "name":"衡安君",
+            "title": "三生三世相思引（一）",
+            "Info": "背景：白浅三万岁上昆仑虚，五万岁大战爆发。天族与翼族的大战中，令羽没有死。白浅封印东皇钟后，虽化身凡人，但并未与夜华发生关系，因为每当夜...",
+            "imgUrl":"//upload-images.jianshu.io/upload_images/10442670-27b8beb07ac52f9d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        },{
+            "id": 2,
+            "name":"潇清妩毓",
+            "title": "34、生活之难 续篇",
+            "Info": "22、生活之难 - 简书 没想到一时兴起写的生活之难，竟然成为了我简书中阅读量最多的一篇文章，2139人，实在是意料之外，那就再写一个续吧。 那...",
+            "imgUrl":"//upload-images.jianshu.io/upload_images/13418382-c8089f21d5150701.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        },{
+            "id": 3,
+            "name":"名厨之家",
+            "title": "入秋后这样吃莲藕，健康又减脂",
+            "Info": "生活中，很多人也喜欢吃莲藕。不过，我们熟悉的莲藕的吃法是莲藕炖汤、清炒藕片、酸辣藕丁以及绝味鸭脖或周黑鸭里的藕片。这些做法，不是很难，所以很常见...",
+            "imgUrl":"//upload-images.jianshu.io/upload_images/12095765-8572c9fdd523606b.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        },{
+            "id":4,
+            "name":"孟小苒",
+            "title": "今天我离职了，化了浓妆",
+            "Info": "今天，十月十七号，农历九月初九，我离职了，收拾资料离开的时候，心里不痛不痒，不悲不喜，不慌不恐。 虽然不知道下一步该何去何从，但是，我想 我终究...",
+            "imgUrl":"//upload-images.jianshu.io/upload_images/6471806-8b3f721f16014fd2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        },{
+            "id": 5,
+            "name":"北诚媳妇",
+            "title": "我妈说她是狐妖",
+            "Info": "在一个偏远的小山村，人们过着日出而作日落而归的生活，没什么新奇事发生，但这件事情，一直是村里人茶余饭后的谈资。 在很多年前，村里有个青年叫林老二...",
+            "imgUrl":"//upload-images.jianshu.io/upload_images/12095765-8572c9fdd523606b.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        },{
+            "id": 6,
+            "name":"风华11",
+            "title": "做什么兼职最赚钱，90后闲暇时间做兼职赚钱经历",
+            "Info": "对于上班一族来说，早八晚六的生活实在很累，不仅工作累还有心累，生活的负担压得喘不过气。就那么点死工资，物价又飞涨，想买房买车，唉，谈何容易。兼职...",
+            "imgUrl":"//upload-images.jianshu.io/upload_images/13962300-9b7bc886b374170a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        }],
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "../images/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+		}, {
+			"id": 2,
+			"imgUrl": "../images/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+		},{
+			"id": 3,
+			"imgUrl": "../images/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+		}, {
+			"id": 4,
+			"imgUrl": "../images/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+		}, {
+			"id": 5,
+			"imgUrl": "../images/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+        }],
+        "writerList": [{
+            "id":1,
+            "imgUrl":"//upload.jianshu.io/users/upload_avatars/4802366/4f86b75d-b61b-4126-8be4-87a151c9cd28.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "name":"汪波_偶遇科学",
+            "writetype":"写了245.9k字 · 1.2k喜欢"
+        },{
+            "id":2,
+            "imgUrl":"//upload.jianshu.io/users/upload_avatars/5205317/1179d71b-e7c6-4023-89e8-bba25f88272b.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "name":"遛遛心情的溜妈",
+            "writetype":"写了510k字 · 2k喜欢"
+        },{
+            "id":3,
+            "imgUrl":"//upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "name":"无限猴子",
+            "writetype":"写了93.9k字 · 299喜欢"
+        },{
+            "id":4,
+            "imgUrl":"//upload.jianshu.io/users/upload_avatars/5796592/73837104-47e5-4fe9-a5be-054bd50b06f7.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "name":"乔汉童",
+            "writetype":"写了510.1k字 · 1.6k喜欢"
+        },{
+            "id":5,
+            "imgUrl":"//upload.jianshu.io/users/upload_avatars/3884693/b425c707-d998-46a6-98b1-9b1e241513c3.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "name":" 冰千里",
+            "writetype":"写了426.3k字 · 6.7k喜欢"
+        },{
+            "id":6,
+            "imgUrl":"//upload.jianshu.io/users/upload_avatars/8972166/065e6770-aacc-4365-9abf-c46a59cdf7f6.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "name":"冰千里",
+            "writetype":"写了426.3k字 · 6.7k喜欢"
+        },{
+            "id":7,
+            "imgUrl":"//upload.jianshu.io/users/upload_avatars/1835526/9bc600ce-7672-42b8-b03b-1a779593dd45.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "name":"简书版权",
+            "writetype":"写了493.1k字 · 43.7k喜欢"
+        },{
+            "id":8,
+            "imgUrl":"//upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "name":"无限猴子",
+            "writetype":"写了93.9k字 · 299喜欢"
+        },{
+            "id":9,
+            "imgUrl":"//upload.jianshu.io/users/upload_avatars/2998364/9f8351c3734b.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "name":"道长是名思维贩子",
+            "writetype":"写了187.6k字 · 47.6k喜欢"
+        },{
+            "id":10,
+            "imgUrl":"//upload.jianshu.io/users/upload_avatars/10849033/a3e12f47-c81c-4659-9c80-117f8b337408.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+            "name":" lostdays",
+            "writetype":"写了164k字 · 1.2k喜欢"
+        }]
+    }
+}
